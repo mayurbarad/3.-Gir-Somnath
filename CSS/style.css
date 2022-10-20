@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  text-align: center;
+  font-family: "Montserrat-Black", sans-serif;
+}
+#title h1 {
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3.5rem;
+  color: white;
+  line-height: 1.5;
+  padding-top: 3%;
+}
+
+#title h3 {
+  color: #fff;
+  padding-top: 1%;
+}
+.home-page {
+  background-image: url("../image/bg-img.png");
+  height: 95vh;
+  width: 99vw;
+}
+
+#title .navbar {
+  padding: 4% 8%;
+}
+#title .navbar-nav {
+  margin-right: 2%;
+}
+#title .nav-link {
+  font-size: 1.5rem;
+}
+
+/*------------------------------ FAMOUS ------------------------*/
+#famous {
+  background-color: #f8f9fa;
+}
+
+.row .card {
+  margin: 15% 4% 12% 14%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.row .card-1,
+.card-2,
+.card-3 {
+  padding: 3% 2%;
+}
+
+/*----------------------------------- GLIMPSES ------------------------------------------------------------*/
+#glimpses {
+  text-align: center;
+  font-family: "Montserrat-Black", sans-serif;
+  background-color: #000000;
+}
+
+.glimpses-img {
+  margin: 3% 20%;
+}
+@media (max-width: 1028px) {
+  .glimpses-img {
+    width: 60%;
+    height: 30%;
+  }
+}
+
+.glimpses-img-2,
+.glimpses-img-3 {
+  margin: 3% 23%;
+  width: 60vw;
+}
+
+.carousel-inner h3 {
+  font-size: 2.5rem;
+  color: #fff;
+  padding-top: 4%;
+}
+/*----------------------------------- TRIP -----------------------------------------*/
+#trip {
+  padding: 4% 0;
+}
+#trip .list {
+  text-align: left;
+  padding-left: 8%;
+}
+/*------------------------------------ FOOTER ---------------------------------------*/
+#footer {
+  text-align: center;
+  padding: 2% 0;
+  background-color: #000000;
+  font-family: "Montserrat-Black", sans-serif;
+  color: #f7f7f7;
+}
+#footer .icon {
+  padding: 1%;
+}

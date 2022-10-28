@@ -4,11 +4,11 @@ Exploring gir-somnath place through this simple website
 
 Build With 
 
-=> HTML
+* HTML
 
-=> CSS
+* CSS
 
-=> Bootstarp
+* Bootstarp
 
 Preview at :-  https://mayurbarad.github.io/gir-somnath/
 

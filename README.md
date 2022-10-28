@@ -1,4 +1,4 @@
-# 3.-Gir-Somnath
+# Gir-Somnath
 
 Exploring gir-somnath place through this simple website
 

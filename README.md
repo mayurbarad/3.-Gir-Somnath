@@ -1,4 +1,4 @@
-# Gir-Somnath
+# Gir-Somnath - tour website
 
 Exploring gir-somnath place through this simple website
 
